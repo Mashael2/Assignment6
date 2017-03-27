@@ -44,7 +44,7 @@ def getError(url):
     for page, value in errors.items():
         print('Count: {} Page: {}'.format(value, page))
 
-    return 
+    
 
 
 
